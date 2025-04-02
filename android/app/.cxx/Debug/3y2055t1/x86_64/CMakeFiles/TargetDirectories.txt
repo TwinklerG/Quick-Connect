@@ -1,0 +1,2 @@
+/var/home/gl/Documents/CUR/GitHub/Quick-Connect/android/app/.cxx/Debug/3y2055t1/x86_64/CMakeFiles/edit_cache.dir
+/var/home/gl/Documents/CUR/GitHub/Quick-Connect/android/app/.cxx/Debug/3y2055t1/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/var/home/gl/Documents/CUR/GitHub/Quick-Connect/android/app/.cxx/RelWithDebInfo/46j5z6f3/x86_64/CMakeFiles/edit_cache.dir
+/var/home/gl/Documents/CUR/GitHub/Quick-Connect/android/app/.cxx/RelWithDebInfo/46j5z6f3/x86_64/CMakeFiles/rebuild_cache.dir

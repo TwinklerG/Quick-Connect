@@ -1,0 +1,1 @@
+/var/home/gl/Documents/CUR/GitHub/Quick-Connect/build/app/intermediates/cxx/Debug/5i1y6e2i/obj/arm64-v8a
