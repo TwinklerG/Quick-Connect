@@ -135,7 +135,7 @@ class _LoginFormState extends State<LoginForm> {
   Widget build(BuildContext context) {
     var appState = context.watch<AppState>();
     return KeyboardListener(
-      focusNode: FocusNode()..requestFocus(),
+      focusNode: FocusNode(),
       onKeyEvent: (KeyEvent event) {
         if (event.logicalKey == LogicalKeyboardKey.enter) {
           if (event is KeyDownEvent && !appState._pressedKeys.contains(event.logicalKey)) {
@@ -195,7 +195,7 @@ class _SuccessFormState extends State<SuccessForm> {
     setState(() {
       logs = "尝试登出中";
     });
-    var url = Uri.parse("https://p.nju.edu.cn/api/portal/v1/logout");
+    var url = Uri.parse("");
     var headers = {
       "Content-Type": "application/json",
     };

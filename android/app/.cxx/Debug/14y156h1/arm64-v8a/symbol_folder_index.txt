@@ -1,0 +1,1 @@
+/Users/gl/Seafile/CUR/GitHub/Quick-Connect/build/app/intermediates/cxx/Debug/14y156h1/obj/arm64-v8a

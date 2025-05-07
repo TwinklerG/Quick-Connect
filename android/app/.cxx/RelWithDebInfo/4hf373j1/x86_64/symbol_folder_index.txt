@@ -1,0 +1,1 @@
+/Users/gl/Seafile/CUR/GitHub/Quick-Connect/build/app/intermediates/cxx/RelWithDebInfo/4hf373j1/obj/x86_64

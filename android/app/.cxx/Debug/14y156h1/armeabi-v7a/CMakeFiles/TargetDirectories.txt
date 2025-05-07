@@ -1,0 +1,2 @@
+/Users/gl/Seafile/CUR/GitHub/Quick-Connect/android/app/.cxx/Debug/14y156h1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/gl/Seafile/CUR/GitHub/Quick-Connect/android/app/.cxx/Debug/14y156h1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
